@@ -1,0 +1,29 @@
+# Quartus Editor Backups
+*.bak
+
+# Quartus Workspace Settings
+*.qws
+
+# Quartus Generated Directories
+db/
+incremental_db/
+greybox_tmp/
+output_files/
+simulation/
+
+# Quartus Logs & Reports
+*log.txt
+*.rpt
+*.smsg
+*.summary
+*.done
+*.pin
+*.jdi
+*.sld
+
+# Generated IP files (Optional, usually recreated from .qip)
+*_bb.v
+
+# Large Media / Generated Files
+bad_apple_video.mif
+# bad_apple.mp4
